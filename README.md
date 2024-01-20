@@ -27,10 +27,3 @@ Submission of  Fyle web development internship task assigned to me
 - The GitHub API is used to fetch user information and repositories dynamically.
 - Pagination is implemented to load more repositories as the user navigates through the pages.
 
-## Contributions
-
-Feel free to contribute to the project by submitting issues or pull requests.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
